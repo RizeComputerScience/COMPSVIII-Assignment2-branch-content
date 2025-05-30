@@ -11,9 +11,6 @@ HTML content to replace the placeholder About section in the TechFlow Solutions 
 - Service overview
 - Professional company narrative
 
-### `about.css`
-Additional CSS styles needed for the statistics section in the About content. This should be added to your existing `styles.css` file.
-
 ### `profiles.html`
 HTML content to replace the placeholder team member profiles. This includes:
 - Three team member profiles with professional headshots
